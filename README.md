@@ -5,3 +5,6 @@ Pregunta 1
 
 Pregunta 2
 * C la jaló
+
+Pregunta 4
+a pedo
